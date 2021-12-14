@@ -6,4 +6,4 @@ Projeto submetido a unidade curricular de Eletrônica I do curso de Engenharia E
 
 Arquivo para abrir o projeto no MathCad:
 
-[Projeto Fonte Linear MathCad](./ProjetoFonte.mcdx)
+[Projeto Fonte Linear MathCad](./Projeto_Fonte.mcdx)
